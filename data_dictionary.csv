@@ -1,0 +1,7 @@
+Nama Kolom,Tipe Data,Deskripsi
+image_name,string,Nama file gambar
+image_path,string,Lokasi/path gambar
+category,string,Kategori buah atau sayur
+width,integer,Lebar gambar dalam pixel
+height,integer,Tinggi gambar dalam pixel
+format,string,Format file gambar (JPEG/PNG)
